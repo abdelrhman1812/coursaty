@@ -16,6 +16,6 @@ The Courses Platform is an educational web application currently under developme
  Demo: https://abdelrhman1812.github.io/coursaty/
  
 
-![Image](https://res.cloudinary.com/decau6fvv/image/upload/v1729436065/coursaty_kmzx1y.png)
+![Image](https://res.cloudinary.com/decau6fvv/image/upload/v1729436190/coursaty_lvpy1q.png)
 
 
